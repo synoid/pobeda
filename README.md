@@ -9,6 +9,6 @@ The project will be presented at:
   - [Erasmus+ Projekt / Jean Monnet Chair: (574561-EPP-1-2016-1-RU-1-EPPJMO-CHAIR «Европейская интеграция через язык и культуру») (European Integration through Language and Culture)](https://www.eisk-kubsu.ru)
 
 
-This github includes the raw data, the [preprint conference paper](https://github.com/synoid/pobeda/blob/master/paper.md) and the bibliography.
+This github includes the raw data, the [preprint conference paper](https://github.com/synoid/pobeda/blob/master/paper.md) and the [bibliography](https://github.com/synoid/pobeda/blob/master/paper.bib).
 
 [Dionys Neubacher](dionys.neubacher@oead-lektorat.at) | [OEAD](https://oead.at/de/ins-ausland/lehren-im-ausland/lektoratsprogramm/) | [Higher School of Economics](https://www.hse.ru/en/staff/dionys)
