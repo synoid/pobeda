@@ -1,5 +1,7 @@
 # Übersetzung, Transkription und Transliteration von Toponymen in der mehrsprachigen Unternehmenskommunikation - Eine Fallstudie über die russische Fluglinie Pobeda
 
+preprint
+
 [Dionys Neubacher](dionys.neubacher@oead-lektorat.at) | [OEAD](https://oead.at/de/ins-ausland/lehren-im-ausland/lektoratsprogramm/) | [Higher School of Economics](https://www.hse.ru/en/staff/dionys)
 
 - [Krasnodar Konferenz 2019](https://www.eisk-kubsu.ru/konferenz19) | [Конференция в Краснодаре 2019](https://www.eisk-kubsu.ru/konferenz) 
