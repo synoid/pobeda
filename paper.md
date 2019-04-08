@@ -77,7 +77,7 @@ Weiteres werden durch Fallstudien politische und historische Aspekte von Toponym
 Diese ermöglichen auch den Erwerb von Grundlagenwissen für linguistische User Experience (UX), Unternehmenskommunikation und Sprachenmanagement im fremd- und mehrsprachigen Kontext.
 
 ## Quellen
-Projektbeschreibung, Rohdaten und BibTeX Quellen auf: https://github.com/synoid/pobeda
+Projektbeschreibung, Rohdaten und [BibTeX Quellen](https://github.com/synoid/pobeda/blob/master/paper.bib) auf: https://github.com/synoid/pobeda
 
 ## Keywords
 Unternehmenskommunikation, Fallstudie, Transliteration, Transkription, Fluglinie, Toponyme, Russland
