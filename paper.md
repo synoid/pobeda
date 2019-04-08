@@ -1,9 +1,9 @@
-# Übersetzung, Transkription und Transliteration von Toponymen in der mehrsprachigen Unternehmenskommunikation. Eine Fallstudie über die russische Fluglinie Pobeda
+# Übersetzung, Transkription und Transliteration von Toponymen in der mehrsprachigen Unternehmenskommunikation - Eine Fallstudie über die russische Fluglinie Pobeda
 
-[Dionys Neubacher](dionys.neubacher@oead-lektorat.at) | [OEAD](https://oead.at/de/ins-ausland/lehren-im-ausland/lektoratsprogramm/) | [Higher School of Economics, Nizhny Novgorod](https://www.hse.ru/en/staff/dionys)
+[Dionys Neubacher](dionys.neubacher@oead-lektorat.at) | [OEAD](https://oead.at/de/ins-ausland/lehren-im-ausland/lektoratsprogramm/) | [Higher School of Economics](https://www.hse.ru/en/staff/dionys)
 
-- Krasnodar Konferenz 2019 [RUS](https://www.eisk-kubsu.ru/konferenz) [DE](https://www.eisk-kubsu.ru/konferenz19)
-- Erasmus+ Projekt / Jean Monnet Chair: (574561-EPP-1-2016-1-RU-1-EPPJMO-CHAIR «Европейская интеграция через язык и культуру»)
+- [Krasnodar Konferenz 2019](https://www.eisk-kubsu.ru/konferenz19) | [Конференция в Краснодаре 2019](https://www.eisk-kubsu.ru/konferenz) 
+- [Erasmus+ Projekt / Jean Monnet Chair: (574561-EPP-1-2016-1-RU-1-EPPJMO-CHAIR «Европейская интеграция через язык и культуру»)](https://www.eisk-kubsu.ru)
 
 ## Zusammenfassung
 In meiner Präsentation diskutiere ich die besonderen Herausforderungen von Toponymen in der mehrsprachigen Unternehmenskommunikation am Beispiel der russischen Fluglinie Pobeda. 
