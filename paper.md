@@ -47,9 +47,9 @@ Ansonsten benützt die deutschsprachige Webseite die endkundenfreundliche deutsc
 
 Bei Salzburg (Winterflugplan) weicht die russische Schreibweise und Aussprache erheblich von der deutschen Version ab.
 
-| Check-in Schalter Russisch | Russisch korrekt | Check-in Schalter Englisch | Gate bzw Bus | GOST 7.79-2000, system A = ISO (1995) | Deutsch |
-| --- | --- | --- | --- | --- | --- |
-| Зальцбург | Зальцбург | Zalzburg | Zalcburg | Zal'cburg | Salzburg |
+| Check-in Schalter Russisch | Russisch korrekt | Check-in Schalter Englisch | Gate bzw Bus | GOST 7.79-2000, system A = ISO (1995) *Ru -> Lat* | GOST 7.79-2000, system A = ISO (1995) = system B (in diesem Fall) *Lat -> Ru* | Deutsch | Chinesisch Lounge | Chinesisch korrekt |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Зальцбург | Зальцбург | Zalzburg | Zalcburg | Zal'cburg | Салзбург | Salzburg | 萨尔茨堡 | 萨尔茨堡 |
 
 Die Schreibweise am Check-in Schalter entspricht keiner Konvention und ist schlicht fehlerhaft.
 Die Schreibweise am Gate bzw im Bus entspricht dem GOST 7.79-2000 bzw der dominanten englischen Transkription, ist aber widersinnig, da Salzburg auch auf Englisch nicht anders geschrieben wird.
